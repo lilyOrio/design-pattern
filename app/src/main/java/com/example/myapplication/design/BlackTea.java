@@ -1,6 +1,7 @@
 package com.example.myapplication.design;
 
 public class BlackTea extends Beverage {
+    @Override
     public String getDescription() {
         return "红茶";
     }
