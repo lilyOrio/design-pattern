@@ -28,6 +28,9 @@ import android.os.Bundle;
  *  三、行为型模式
  *   行为型模式关注的是各个类之间的相互作用，将职责划分清楚，使得我们的代码更加地清晰。
  *
+ * 总结
+ * 学习设计模式的目的是为了让我们的代码更加的优雅、易维护、易扩展
+ *
  */
 public class MainActivity extends AppCompatActivity {
 
